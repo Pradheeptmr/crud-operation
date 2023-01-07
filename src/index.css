@@ -1,0 +1,13 @@
+
+.container{
+  flex-direction: column;
+  animation-iteration-count: infinite;
+  min-height: 20px;
+  color: aquamarine;
+
+}
+.View Users{
+  align-content: center;
+  align-items: flex-end;
+
+}
